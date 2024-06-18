@@ -1,0 +1,6 @@
+package platform
+
+interface PlatformRoom {
+
+
+}
